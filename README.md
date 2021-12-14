@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css">
     <title>Guess The Number</title>
   </head>
-  <body background="bg1.jpg"><br>
+  <body background="image.jpg"><br>
         <h1>Number guessing game</h1>
     
         <p>A random number between 1 and 100 has been selected. See if you can guess it in 10 turns or fewer. We'll tell you whether your guess was too high or too low.</p>
@@ -36,7 +36,7 @@
           <p class="lowOrHi"></p>
         </div>
         <script src="js.js"></script>
-        <body background="bg1.jpg"><br>
+        <body background="image.jpg"><br>
         <h1>Number guessing game</h1>
     
         <p>A random number between 1 and 100 has been selected. See if you can guess it in 10 turns or fewer. We'll tell you whether your guess was too high or too low.</p>
@@ -61,7 +61,7 @@
     <link rel="stylesheet" href="styles.css">
     <title>Guess The Number</title>
   </head>
-    <body background="bg1.jpg"><br>
+    <body background="image.jpg"><br>
         <h1>Number guessing game</h1>
     
         <p>A random number between 1 and 100 has been selected. See if you can guess it in 10 turns or fewer. We'll tell you whether your guess was too high or too low.</p>
